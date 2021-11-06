@@ -1,0 +1,5 @@
+﻿[System.Serializable]
+public enum PlayerPrefsKeys
+{
+    COINS, FORCE_UP_LEVEL, RADIUS_UP_LEVEL, POWER, CHOOSE_STAFF, CHOOSE_POWER, CURRENT_LEVEL, TUTORIALS
+}
